@@ -1,4 +1,31 @@
-h1
-{
-    font-size: 50px;
+body{
+    
+    font-family: 'Poppins', sans-serif;
+}
+
+
+    
+    
+
+h1{
+    
+ font-size: 50px;
+
+}
+.name-highlight{
+    color: tomato;
+}
+h4{
+    color: solid black;
+}
+p{color: grey;}
+
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+img{
+    width: 100%;
 }
